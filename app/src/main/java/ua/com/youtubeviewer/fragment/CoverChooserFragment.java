@@ -118,7 +118,7 @@ public class CoverChooserFragment extends Fragment implements View.OnClickListen
 
     @Override
     public void onBitmapFailed(Drawable errorDrawable) {
-        Toast.makeText(getActivity(), "can't save image", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getActivity(), R.string.image_save_failed, Toast.LENGTH_SHORT).show();
     }
 
     @Override
