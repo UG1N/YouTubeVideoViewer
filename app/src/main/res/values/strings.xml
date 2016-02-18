@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Youtube Video Viewer</string>
+    <string name="fragment_previous_button">Previous</string>
+    <string name="fragment_next_button">Next</string>
+    <string name="image_save">Saved</string>
+    <string name="image_save_failed">Picture was not saved</string>
+</resources>

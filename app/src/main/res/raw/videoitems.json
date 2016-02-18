@@ -1,0 +1,97 @@
+[
+  {
+    "id": 0,
+    "title": "ЛУЧШИЕ COUB #88",
+    "cover": [
+      {
+        "coverUrl": "http://img.youtube.com/vi/5y4ce70vyMo/0.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/5y4ce70vyMo/1.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/5y4ce70vyMo/2.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/5y4ce70vyMo/3.jpg"
+      }
+    ],
+    "playUrl": "5y4ce70vyMo"
+  },
+  {
+    "id": 1,
+    "title": "ЛУЧШИЕ COUB #89",
+    "cover": [
+      {
+        "coverUrl": "http://img.youtube.com/vi/TDIVoGSQq8U/0.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/TDIVoGSQq8U/1.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/TDIVoGSQq8U/2.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/TDIVoGSQq8U/3.jpg"
+      }
+    ],
+    "playUrl": "TDIVoGSQq8U"
+  },
+  {
+    "id": 2,
+    "title": "ЛУЧШИЕ COUB #90",
+    "cover": [
+      {
+        "coverUrl": "http://img.youtube.com/vi/Jz_Opw7MN0w/0.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/Jz_Opw7MN0w/1.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/Jz_Opw7MN0w/2.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/Jz_Opw7MN0w/3.jpg"
+      }
+    ],
+    "playUrl": "Jz_Opw7MN0w"
+  },
+  {
+    "id": 3,
+    "title": "ЛУЧШИЕ COUB #91",
+    "cover": [
+      {
+        "coverUrl": "http://img.youtube.com/vi/zUfnApjxE08/0.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/zUfnApjxE08/1.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/zUfnApjxE08/2.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/zUfnApjxE08/3.jpg"
+      }
+    ],
+    "playUrl": "zUfnApjxE08"
+  },
+  {
+    "id": 4,
+    "title": "ЛУЧШИЕ COUB #92",
+    "cover": [
+      {
+        "coverUrl": "http://img.youtube.com/vi/ASjpHIgQbKQ/0.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/ASjpHIgQbKQ/1.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/ASjpHIgQbKQ/2.jpg"
+      },
+      {
+        "coverUrl": "http://img.youtube.com/vi/ASjpHIgQbKQ/3.jpg"
+      }
+    ],
+    "playUrl": "ASjpHIgQbKQ"
+  }
+]
