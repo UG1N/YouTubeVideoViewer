@@ -1,8 +1,8 @@
 package ua.com.youtubeviewer.activity;
 
+import android.app.Activity;
 import android.content.res.Configuration;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
@@ -14,7 +14,7 @@ import ua.com.youtubeviewer.model.VideoItem;
 import static android.support.v7.widget.LinearLayoutManager.HORIZONTAL;
 import static android.support.v7.widget.LinearLayoutManager.VERTICAL;
 
-public class VideoViewListActivity extends AppCompatActivity {
+public class VideoViewListActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

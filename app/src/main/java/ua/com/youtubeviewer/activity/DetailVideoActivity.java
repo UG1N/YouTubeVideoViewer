@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -37,6 +38,8 @@ public class DetailVideoActivity extends AppCompatActivity implements View.OnCli
         // http://stackoverflow.com/questions/33379320/cannot-load-modern-controls-ui-unable-to-play-youtube-videos-in-full-screen
         getLayoutInflater().setFactory(this);
         super.onCreate(savedInstanceState);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+                WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_detail_video);
 
         Intent intent = getIntent();
